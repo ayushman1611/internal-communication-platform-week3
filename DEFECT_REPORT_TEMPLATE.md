@@ -1,0 +1,21 @@
+# Defect Report Template
+
+- Defect ID:
+- Title:
+- Date:
+- Reporter:
+- Build/Version:
+- Environment:
+- Related Requirement:
+- Related Test Case:
+- Severity: Critical / High / Medium / Low
+- Priority: P1 / P2 / P3 / P4
+- Preconditions:
+- Steps to Reproduce:
+- Expected Result:
+- Actual Result:
+- Evidence:
+- Assignee:
+- Status: New / Triaged / Assigned / In Progress / Fixed / Retest / Closed / Reopened
+- Retest Result:
+- Regression Impact:

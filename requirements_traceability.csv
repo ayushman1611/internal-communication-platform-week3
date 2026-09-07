@@ -1,0 +1,17 @@
+Requirement ID,Requirement,Test Case IDs,Priority
+FR-01,User authentication and login,TC-001;TC-002,Critical
+FR-02,Direct and group messaging,TC-003;TC-005;TC-016;TC-020,Critical
+FR-03,Project/department channels,TC-004,High
+FR-04,Message search,TC-006;TC-020,Medium
+FR-05,Notifications and mentions,TC-007,Medium
+FR-06,Announcements,TC-008,High
+FR-07,File sharing,TC-009;TC-010,High/Critical
+FR-08,Administration and user lifecycle,TC-011,High
+FR-09,Role-based access control,TC-012,Critical
+FR-10,Audit logging,TC-015,High
+NFR-01,Performance and concurrency,TC-016,High
+NFR-02,Session security,TC-013,High
+NFR-03,Input/file security,TC-010;TC-014,Critical
+NFR-04,Availability/recovery,TC-017,High
+NFR-05,Usability/responsive access,TC-018,Medium
+NFR-06,Regression/release stability,TC-019,High
